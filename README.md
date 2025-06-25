@@ -30,6 +30,6 @@ Sou estudante de Ciência de Dados e apaixonado por transformar dados em soluç�
 
 ---
 
-## 📁 Estrutura do Projeto
+
 
 
